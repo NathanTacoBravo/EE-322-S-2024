@@ -2,6 +2,8 @@
 **Engineering Design VI**
 
 *Nathan Taco Bravo*
+
+> “The engineer has been, and is, a maker of history.” - James Kip Finch
 ---
 **Fun Facts About Me:**
 1. I'm Ecuadorian
