@@ -284,5 +284,5 @@ return 0;
 ---
 [Funny Cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSCQ1sd9Q8MQicoOdnbUY8UT9ps2t1LgUxgTMyC-0gZRm8zE1qaGcAYrCSDP3y-kFoic&usqp=CAU)
 ---
-![Engineering Design](https://github.com/NathanTacoBravo/EE-322-S-2024/assets/116911160/e247f265-c5a6-4f16-8603-4b6452970a7d)
+![TOTK](https://github.com/NathanTacoBravo/EE-322-S-2024/assets/116911160/2091e3ab-2777-487b-9eec-04fae1f0bfbf)
 ---
